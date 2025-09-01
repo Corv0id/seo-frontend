@@ -7,7 +7,6 @@ Users can register/login, run PageSpeed & SERPStack audits, and view live analyt
 
 ## 🚀 Quick Start
 
-```bash
 # 1. Clone & install
 git clone https://github.com/Corv0id/seo-frontend.git
 cd seo-frontend
